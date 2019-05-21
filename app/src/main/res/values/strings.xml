@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">Calvin Budi Santosa</string>
+
+    <string name="slide_2_title">Ini Aplikasi Profil</string>
+
+    <string name="slide_3_title">Aplikasiku</string>
+    <string name="slide_3_desc">Ini adalah aplikasi tentang saya</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Calvin Budi Santosa</string>
+    <string name="nav_header_subtitle">calvinbudisantosacbs@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_profil">Profil</string>
+    <string name="menu_kontak">Kontak</string>
+    <string name="menu_daftarteman">Daftar Teman</string>
+
+</resources>
